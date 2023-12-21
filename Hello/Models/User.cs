@@ -8,5 +8,6 @@ namespace Hello.Models
 {
     internal class User
     {
+        public int ID { get; set; }
     }
 }
